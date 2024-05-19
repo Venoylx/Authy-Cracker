@@ -12,7 +12,7 @@ thats all
 
 ___________________
 
-Requirements 
+Requirements : 
 |
 Recommended 4 cores 8 threads
 |
